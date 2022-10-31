@@ -43,8 +43,8 @@ We chose Kaggle’s Spotify Charts “Top 200” dataset, [found here](https://w
 
 Our analysis shows that the United States has the highest amount of total streams and accounts for 26% of total global streams.  
 
-![total streams per region](Project-1/Countries_By_Streaming.png)
-![global vs US top songs comparison](Project-1/Global_vs_US_top_songs_overall.png)
+![total streams per region](/Project-1/graphs/Countries_By_Streaming.png)
+![global vs US top songs comparison](Project-1/graphs/Global_vs_US_top_songs_overall.png)
 
 <b>Question Two: What Are the Top Ranked Songs and Artists Globally?</b>
 
