@@ -52,30 +52,51 @@ Our analysis shows that the United States has the highest amount of total stream
 <b>Question Two: How do Rankings of Top Songs in the Top Streaming Country Compare to the Global Rankings?
 </b>
 
-In 2017, the US charts had 90.00% of the same top 100 songs as the global charts in 2017.
+In 2017, the US charts had 60% of the same top 100 songs as the global charts.
 
 ![venn diagram, 2017 top songs comparing US to global](Project-1/graphs/_top_songs_2017_venn.png)
 
-In 2018, the US charts had 93.00% of the same top 100 songs as the global charts in 2018.
+In 2017, the US charts had 50% of the same top 10 songs as the global charts.
+
+![double bar graph, 2017 top songs comparing US to global](Project-1/graphs/Global_vs_US_top_songs_2017.png)
+
+In 2018, the US charts had 63% of the same top 100 songs as the global charts in 2018.
 
 ![venn diagram, 2018 top songs comparing US to global](Project-1/graphs/_top_songs_2018_venn.png)
 
-The US charts had 99.0% of the same top 100 songs as the global charts in 2019.
+In 2018, the US charts had 70% of the same top 10 songs as the global charts.
+
+![double bar graph, 2018 top songs comparing US to global](Project-1/graphs/Global_vs_US_top_songs_2018.png)
+
+In 2019, the US charts had 63% of the same top 100 songs as the global charts.
 
 ![venn diagram, 2019 top songs comparing US to global](Project-1/graphs/top_songs_2019_venn.png)
 
-The US charts had 64.0% of the same top ten songs as the global charts in 2020.
+In 2019, the US charts had 40% of the same top 10 songs as the global charts.
+
+![double bar graph, 2019 top songs comparing US to global](Project-1/graphs/Global_vs_US_top_songs_2019.png)
+
+In 2020, The US charts had 57% of the same top 100 songs as the global charts.
 
 ![venn diagram, 2020 top songs comparing US to global](Project-1/graphs/top_songs_2020_venn.png)
 
-The US charts had 65.0% of the same top 100 songs as the global charts in 2021.
+In 2020, the US charts had 40% of the same top 10 songs as the global charts.
+
+![double bar graph, 2020 top songs comparing US to global](Project-1/graphs/Global_vs_US_top_songs_2020.png)
+
+In 2021, The US charts had 66% of the same top 100 songs as the global charts.
 
 ![venn diagram, 2021 top songs comparing US to global](Project-1/graphs/top_songs_2021_venn.png)
 
-The US charts had 92.0% of the same top 100 songs as the global charts 2017-2021.
+In 2021, the US charts had 70% of the same top 10 songs as the global charts.
+
+![double bar graph, 2021 top songs comparing US to global](Project-1/graphs/Global_vs_US_top_songs_2021.png)
+
+The US charts had 56% of the same top 100 songs as the global charts from 2017 to 2021.
 
 ![venn diagram, total top songs comparing US to global](Project-1/graphs/top_songs_overall_venn.png)
 
+We used a chi squared test to determine if the data matched our expectations of how influential the US song charts would be, considering the market makes up 21% of Spotify streams in our timeframe. Since the chi square value of 73.84 exceeds the critical value of 3.84, we conclude that the results are statistically significant and can accept our null hypothesis. 
 
 <b>Question Three: How do the Top Song of Each Year (2017-2021) Perform in the Top 10 Streaming Countries?</b>
 
