@@ -51,12 +51,31 @@ Our analysis shows that the United States has the highest amount of total stream
 
 <b>Question Two: How do Rankings of Top Songs in the Top Streaming Country Compare to the Global Rankings?
 </b>
-(Project-1/graphs/_top_songs_2017_venn.png)
-(Project-1/graphs/_top_songs_2018_venn.png)
-(Project-1/graphs/top_songs_2019_venn.png)
-(Project-1/graphs/top_songs_2020_venn.png)
-(Project-1/graphs/top_songs_2021_venn.png)
-(Project-1/graphs/top_songs_overall_venn.png)
+
+In 2017, the US charts had 90.00% of the same top 100 songs as the global charts in 2017.
+
+![venn diagram, 2017 top songs comparing US to global](Project-1/graphs/_top_songs_2017_venn.png)
+
+In 2018, the US charts had 93.00% of the same top 100 songs as the global charts in 2018.
+
+![venn diagram, 2018 top songs comparing US to global](Project-1/graphs/_top_songs_2018_venn.png)
+
+The US charts had 99.0% of the same top 100 songs as the global charts in 2019.
+
+![venn diagram, 2019 top songs comparing US to global](Project-1/graphs/top_songs_2019_venn.png)
+
+The US charts had 64.0% of the same top ten songs as the global charts in 2020.
+
+![venn diagram, 2020 top songs comparing US to global](Project-1/graphs/top_songs_2020_venn.png)
+
+The US charts had 65.0% of the same top 100 songs as the global charts in 2021.
+
+![venn diagram, 2021 top songs comparing US to global](Project-1/graphs/top_songs_2021_venn.png)
+
+The US charts had 92.0% of the same top 100 songs as the global charts 2017-2021.
+
+![venn diagram, total top songs comparing US to global](Project-1/graphs/top_songs_overall_venn.png)
+
 
 <b>Question Three: How do the Top Song of Each Year (2017-2021) Perform in the Top 10 Streaming Countries?</b>
 
