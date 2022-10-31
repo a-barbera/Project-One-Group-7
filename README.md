@@ -116,3 +116,7 @@ https://www.bbc.com/news/newsbeat-43240886
 https://www.businessofapps.com/data/spotify-statistics/
 
 https://newsroom.spotify.com/company-info/
+
+https://www.bbc.com/news/business-60881567
+
+https://thetowerinfo.com/listen-spotify-china/
