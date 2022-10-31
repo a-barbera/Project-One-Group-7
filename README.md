@@ -13,9 +13,12 @@ Thanks to playlists and individual track selection being prioritized over compre
 Using Spotify API and a kaggle dataset called Spotify Charts, a resource of all daily hit charts from 2017 – 2022, we looked at the difference between global listener trends and compared them with that of the US, Spotify’s largest active daily user base.  
 
 # Project Structure:
-After reviewing many potential Spotify datasets, we chose one that holds the entire “Top 200” songs published globally between 2017 and 2021, a resource with 164,807 values.
+After reviewing many potential Spotify datasets, we chose one that holds the entire “Top 200” songs published globally between 2017 and 2021, a resource with 164,807 values.  We first reviewed and cleaned this dataset to eliminate irrelevant categories, consolidated the findings by year, and cleaned the text to increase legibility and reduce potential errors.  
+
+The project collaborators worked as a team to ask relevant questions that could be answered by this dataset and build data visualizations that would help us communicate the most important aspects to our audience, including tables, graphs, and a Google Slides presentation to highlight key elements from our findings. 
+
 Our project code can be found ___
-We also created a Google Slides presentation to highlight key elements and visuals from our findings. 
+
 # Project Contributors:
 1. Anna Barbera
 2. Tanner Horton
@@ -41,6 +44,7 @@ We chose Kaggle’s Spotify Charts “Top 200” dataset, [found here](https://w
 Our analysis shows that the United States has the highest amount of total streams and accounts for 26% of total global streams.  
 
 ![total streams per region](Project-1/Countries_By_Streaming.png)
+![global vs US top songs comparison](Project-1/Global_vs_US_top_songs_overall.png)
 
 <b>Question Two: What Are the Top Ranked Songs and Artists Globally?</b>
 
@@ -52,9 +56,18 @@ Our analysis shows that the United States has the highest amount of total stream
 
 # Study Limitations:
 This study is limited to only songs that achieved a "Top 200" status between the years of 2017 and 2021.  
-This study is also limited to the 68 unique regions available using Spotify API, when Spotify is available in a total of 183 regions worldwide. 
+This study is also limited to the 68 unique regions available using Spotify API, when Spotify is available in a total of 183 regions worldwide.
+This study is only limited to data gleaned from Spotify.  Other popular music streaming services include Apple Music, Amazon Music, and YouTube Music. 
 
 # Future Exploratory Analysis:
+Future analysis could include:
+
+1. Researching datasets from other music streaming services and combining those results with that of Spotify.
+
+2. Further use of Spotify API to analyze what categorical features the most popular songs and artists have in common.
+
+3. Further research into the connection between record labels and streaming services.
+
 
 # References: 
 https://www.kaggle.com/datasets/dhruvildave/spotify-charts?resource=download
