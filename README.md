@@ -1,10 +1,11 @@
-# Project-One-Group-7
-project 1 EDA Analysis
+# Project One: Exploratory Data Analysis
+
+# Team Name: 007
 
 # Project Overview:
 A Swedish music streaming start-up launched in 2008, Spotify began as an ethical answer to controversial file sharing sites like Napster and LimeWire by offering users a free service with advertisements or an optional monthly ad-free subscription for a nominal fee, using some of the revenue generated to compensate artists for their music.  
 
-Today, over 50% of all music is accessed via streaming services, and Spotify is the most used streaming platform. With 456 million monthly users in 183 regions, it accounts for roughly one third of all music streaming listeners worldwide.  European users account for the largest percentage of active monthly users at 32%, but while North American listeners account for 23%, this market also has Spotify’s highest amount of active daily usage.  
+Today, over 50% of all music is accessed via streaming services, and Spotify is the most used streaming platform. With 456 million monthly users in 183 regions, it accounts for roughly one third of all music streaming listeners worldwide.  European users account for the largest percentage of active monthly users at 32%, but while North American listeners account for 22%, this market also has Spotify’s highest amount of active daily usage.  
 
 Now, more than ever before, stakeholders in the music industry have immediate and detailed information on how individual artists are being received by music lovers around the globe.  Previously only trackable through direct purchases such as concert tickets and album sales, now stakeholders can see not only the popularity of these artists, but where in the world they are most popular, even down to which songs of theirs have the highest number of streams.  
 
@@ -45,6 +46,8 @@ Our analysis shows that the United States has the highest amount of total stream
 
 ![total streams per region](/Project-1/graphs/Countries_By_Streaming.png)
 ![global vs US top songs comparison](Project-1/graphs/Global_vs_US_top_songs_overall.png)
+![bar chart, top ten countries total streams](Project-1/graphs/Top_Ten_Countries_by_Streaming.png)
+![pie chart, Us vs. International streaming totals](Project-1/graphs/US_Streaming_Percentage.png)
 
 <b>Question Two: How do Rankings of Top Songs in the Top Streaming Country Compare to the Global Rankings?
 </b>
