@@ -51,6 +51,12 @@ Our analysis shows that the United States has the highest amount of total stream
 
 <b>Question Two: How do Rankings of Top Songs in the Top Streaming Country Compare to the Global Rankings?
 </b>
+(Project-1/graphs/_top_songs_2017_venn.png)
+(Project-1/graphs/_top_songs_2018_venn.png)
+(Project-1/graphs/top_songs_2019_venn.png)
+(Project-1/graphs/top_songs_2020_venn.png)
+(Project-1/graphs/top_songs_2021_venn.png)
+(Project-1/graphs/top_songs_overall_venn.png)
 
 <b>Question Three: How do the Top Song of Each Year (2017-2021) Perform in the Top 10 Streaming Countries?</b>
 
