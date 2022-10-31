@@ -18,7 +18,7 @@ After reviewing many potential Spotify datasets, we chose one that holds the ent
 
 The project collaborators worked as a team to ask relevant questions that could be answered by this dataset and build data visualizations that would help us communicate the most important aspects to our audience, including tables, graphs, and a Google Slides presentation to highlight key elements from our findings. 
 
-Our project code can be found ___
+Our project code can be found here: https://github.com/a-barbera/Project-One-Group-7
 
 # Project Contributors:
 1. Anna Barbera
