@@ -39,18 +39,19 @@ Analyze music data trends and find out which markets hold the most influence ove
 # Methodology:
 We chose Kaggle’s Spotify Charts “Top 200” dataset, [found here](https://www.kaggle.com/datasets/dhruvildave/spotify-charts?resource=download).  Using Pandas, we cleaned it by eliminating categories not relevant to our study, checked it for duplicates, consolidated the findings by year, and cleaned the text to increase legibility and reduce potential problems. 
 # Research Questions
- <b>Question One:  Which Countries Are Most Influential on the Global Spotify Market?</b>
+ <b>Question One:  Which Countries are Most Influential on the Global Spotify Market?</b>
 
 Our analysis shows that the United States has the highest amount of total streams and accounts for 26% of total global streams.  
 
 ![total streams per region](/Project-1/graphs/Countries_By_Streaming.png)
 ![global vs US top songs comparison](Project-1/graphs/Global_vs_US_top_songs_overall.png)
 
-<b>Question Two: What Are the Top Ranked Songs and Artists Globally?</b>
+<b>Question Two: How do Rankings of Top Songs in the Top Streaming Country Compare to the Global Rankings?
+</b>
 
-<b>Question Three: What Are the Top Ranked Songs and Artists in the Top Streaming Country?</b>
+<b>Question Three: How do the Top Song of Each Year (2017-2021) Perform in the Top 10 Streaming Countries?</b>
 
-<b>Question Four: What Percentage of the Top Songs and Artists in the Top Streaming Country Are a Part of Global Rankings</b>
+<b>Question Four: Which Artists Are the Most Popular Globally (2017-2021)?</b>
 
 # Conclusion:
 
