@@ -49,57 +49,57 @@ Lastly, we developed a team presentation and a robust Google Slides folder of gr
 
 Our analysis shows that the United States has the highest amount of total streams and accounts for 21% of total global streams between the years of 2017 - 2021, significantly higher than any other individual region represented in our dataset.  
 
-![total streams per region](/Project-1/graphs/Countries_By_Streaming.png)
-![global vs US top songs comparison](Project-1/graphs/Global_vs_US_top_songs_overall.png)
-![bar chart, top ten countries total streams](Project-1/graphs/Top_Ten_Countries_by_Streaming.png)
-![pie chart, Us vs. International streaming totals](Project-1/graphs/US_Streaming_Percentage.png)
+![total streams per region](graphs2/Countries_By_Streaming.png)
+![global vs US top songs comparison](graphs2/Global_vs_US_top_songs_overall.png)
+![bar chart, top ten countries total streams](/graphs2/Top_Ten_Countries_by_Streaming.png)
+![pie chart, Us vs. International streaming totals](/graphs2/US_Streaming_Percentage.png)
 
 <b>Question Two: How do Rankings of Top Songs in the Top Streaming Country Compare to the Global Rankings? 
 </b>
 
 In 2017, the US charts had 60% of the same top 100 songs as the global charts.
 
-![venn diagram, 2017 top songs comparing US to global](Project-1/graphs/_top_songs_2017_venn.png)
+![venn diagram, 2017 top songs comparing US to global](graphs2/_top_songs_2017_venn.png)
 
 In 2017, the US charts had 50% of the same top 10 songs as the global charts.
 
-![double bar graph, 2017 top songs comparing US to global](Project-1/graphs/Global_vs_US_top_songs_2017.png)
+![double bar graph, 2017 top songs comparing US to global](graphs2/Global_vs_US_top_songs_2017.png)
 
 In 2018, the US charts had 63% of the same top 100 songs as the global charts in 2018.
 
-![venn diagram, 2018 top songs comparing US to global](Project-1/graphs/_top_songs_2018_venn.png)
+![venn diagram, 2018 top songs comparing US to global](graphs2/_top_songs_2018_venn.png)
 
 In 2018, the US charts had 70% of the same top 10 songs as the global charts.
 
-![double bar graph, 2018 top songs comparing US to global](Project-1/graphs/Global_vs_US_top_songs_2018.png)
+![double bar graph, 2018 top songs comparing US to global](graphs2/Global_vs_US_top_songs_2018.png)
 
 In 2019, the US charts had 63% of the same top 100 songs as the global charts.
 
-![venn diagram, 2019 top songs comparing US to global](Project-1/graphs/top_songs_2019_venn.png)
+![venn diagram, 2019 top songs comparing US to global](graphs2/top_songs_2019_venn.png)
 
 In 2019, the US charts had 40% of the same top 10 songs as the global charts.
 
-![double bar graph, 2019 top songs comparing US to global](Project-1/graphs/Global_vs_US_top_songs_2019.png)
+![double bar graph, 2019 top songs comparing US to global](graphs2/Global_vs_US_top_songs_2019.png)
 
 In 2020, The US charts had 57% of the same top 100 songs as the global charts.
 
-![venn diagram, 2020 top songs comparing US to global](Project-1/graphs/top_songs_2020_venn.png)
+![venn diagram, 2020 top songs comparing US to global](graphs2/top_songs_2020_venn.png)
 
 In 2020, the US charts had 40% of the same top 10 songs as the global charts.
 
-![double bar graph, 2020 top songs comparing US to global](Project-1/graphs/Global_vs_US_top_songs_2020.png)
+![double bar graph, 2020 top songs comparing US to global](graphs2/Global_vs_US_top_songs_2020.png)
 
 In 2021, The US charts had 66% of the same top 100 songs as the global charts.
 
-![venn diagram, 2021 top songs comparing US to global](Project-1/graphs/top_songs_2021_venn.png)
+![venn diagram, 2021 top songs comparing US to global](graphs2/top_songs_2021_venn.png)
 
 In 2021, the US charts had 70% of the same top 10 songs as the global charts.
 
-![double bar graph, 2021 top songs comparing US to global](Project-1/graphs/Global_vs_US_top_songs_2021.png)
+![double bar graph, 2021 top songs comparing US to global](graphs2/Global_vs_US_top_songs_2021.png)
 
 The US charts had 56% of the same top 100 songs as the global charts from 2017 to 2021.
 
-![venn diagram, total top songs comparing US to global](Project-1/graphs/top_songs_overall_venn.png)
+![venn diagram, total top songs comparing US to global](graphs2/top_songs_overall_venn.png)
 
 We used a chi squared test to determine if the data matched our expectations of how influential the US song charts would be, considering the market makes up 21% of Spotify streams in our timeframe. Since the chi square value of 73.84 exceeds the critical value of 3.84, we conclude that the results are statistically significant and can reject the null hypothesis. 
 
