@@ -39,6 +39,11 @@ Analyze music data trends and find out which markets hold the most influence ove
 
 # Methodology:
 We chose Kaggle’s Spotify Charts “Top 200” dataset, [found here](https://www.kaggle.com/datasets/dhruvildave/spotify-charts?resource=download).  Using Pandas, we cleaned it by eliminating categories not relevant to our study, checked it for duplicates, consolidated the findings by year, and cleaned the text to increase legibility and reduce potential problems. 
+
+We then used Pandas, Matplotlib, and statistical tests such as a chi-squared test and p-values to build different ways of looking at the information and to run tests on our hypothesis.  Using tables to sort, evaluate, and categorize our findings, we then created graphs and diagrams to help visualize these findings.  
+
+Lastly, we developed a team presentation and a robust Google Slides folder of graphs and key elements to support our findings and facilitate audience engagement. 
+
 # Research Questions
  <b>Question One:  Which Countries are Most Influential on the Global Spotify Market?</b>
 
