@@ -42,14 +42,14 @@ We chose Kaggle’s Spotify Charts “Top 200” dataset, [found here](https://w
 # Research Questions
  <b>Question One:  Which Countries are Most Influential on the Global Spotify Market?</b>
 
-Our analysis shows that the United States has the highest amount of total streams and accounts for 26% of total global streams.  
+Our analysis shows that the United States has the highest amount of total streams and accounts for 21% of total global streams between the years of 2017 - 2021, significantly higher than any other individual region represented in our dataset.  
 
 ![total streams per region](/Project-1/graphs/Countries_By_Streaming.png)
 ![global vs US top songs comparison](Project-1/graphs/Global_vs_US_top_songs_overall.png)
 ![bar chart, top ten countries total streams](Project-1/graphs/Top_Ten_Countries_by_Streaming.png)
 ![pie chart, Us vs. International streaming totals](Project-1/graphs/US_Streaming_Percentage.png)
 
-<b>Question Two: How do Rankings of Top Songs in the Top Streaming Country Compare to the Global Rankings?
+<b>Question Two: How do Rankings of Top Songs in the Top Streaming Country Compare to the Global Rankings? 
 </b>
 
 In 2017, the US charts had 60% of the same top 100 songs as the global charts.
@@ -98,15 +98,42 @@ The US charts had 56% of the same top 100 songs as the global charts from 2017 t
 
 We used a chi squared test to determine if the data matched our expectations of how influential the US song charts would be, considering the market makes up 21% of Spotify streams in our timeframe. Since the chi square value of 73.84 exceeds the critical value of 3.84, we conclude that the results are statistically significant and can accept our null hypothesis. 
 
-<b>Question Three: How do the Top Song of Each Year (2017-2021) Perform in the Top 10 Streaming Countries?</b>
+<b>Question Three: How does the Top Song of Each Year (2017-2021) Perform in the Top 10 Streaming Countries?</b>
 
 <b>Question Four: Which Artists Are the Most Popular Globally (2017-2021)?</b>
 
+The top ten most popular artists during this time frame:
+
+1. Post Malone
+2. Ed Sheeran
+3. Drake
+4. Bad Bunny
+5. Billie Eilish
+6. J Balvin
+7. Ariana Grande
+8. The Weeknd
+9. Juice World
+10. Dua Lipa
+
+Between the years of 2017 and 2021, the United States (the region with the highest amount of total streams) shared 50% of the same top ten artists as the global rankings.
+
+
 # Conclusion:
 
+The U.S. market makes up 21% of the total global Spotify streams from 2017 - 2021 represented by our dataset.
+
+From 2017 - 2021, the U.S. top ten artists had a 50% overlap with global top ten artists.
+
+From 2017 - 2021, the U.S. had at least 56% of the same songs as the global charts. 
+
+The top song of each year had the highest number of streams from the U.S. market. 
+
+We fail to reject the null hypothesis as our studies support the idea that the largest market will have the greatest influence on global trends.
+
 # Study Limitations:
+
 This study is limited to only songs that achieved a "Top 200" status between the years of 2017 and 2021.  
-This study is also limited to the 68 unique regions available using Spotify API, when Spotify is available in a total of 183 regions worldwide.
+This study is also limited to the 68 unique regions available using Spotify API, when Spotify is available in a total of 183 regions worldwide.  Additionally this is still limited as Spotify is not universally accessible.
 This study is only limited to data gleaned from Spotify.  Other popular music streaming services include Apple Music, Amazon Music, and YouTube Music. 
 
 # Future Exploratory Analysis:
@@ -118,6 +145,7 @@ Future analysis could include:
 
 3. Further research into the connection between record labels and streaming services.
 
+4. Further consideration of population sizes and the parts they play in determining popularity.
 
 # References: 
 https://www.kaggle.com/datasets/dhruvildave/spotify-charts?resource=download
