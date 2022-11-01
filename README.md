@@ -45,7 +45,7 @@ We then used Pandas, Matplotlib, and statistical tests such as a chi-squared tes
 Lastly, we developed a team presentation and a robust Google Slides folder of graphs and key elements to support our findings and facilitate audience engagement. 
 
 # Research Questions
- <b>Question One:  Which Countries are Most Influential on the Global Spotify Market?</b>
+ <b>Question One:  Which Countries were the Most Influential on the Global Spotify Market from 2017-2021?</b>
 
 Our analysis shows that the United States has the highest amount of total streams and accounts for 21% of total global streams between the years of 2017 - 2021, significantly higher than any other individual region represented in our dataset.  
 
@@ -54,8 +54,27 @@ Our analysis shows that the United States has the highest amount of total stream
 ![bar chart, top ten countries total streams](/graphs2/Top_Ten_Countries_by_Streaming.png)
 ![pie chart, Us vs. International streaming totals](/graphs2/US_Streaming_Percentage.png)
 
-<b>Question Two: How do Rankings of Top Songs in the Top Streaming Country Compare to the Global Rankings? 
-</b>
+<b>Question Two: How do Rankings of Top Artists in the Top Streaming Country Compare to the Global Rankings?
+? </b>
+
+The top ten most popular artists during this time frame:
+
+1. Post Malone
+2. Ed Sheeran
+3. Drake
+4. Bad Bunny
+5. Billie Eilish
+6. J Balvin
+7. Ariana Grande
+8. The Weeknd
+9. Juice World
+10. Dua Lipa
+
+Between the years of 2017 and 2021, the United States (the region with the highest amount of total streams) shared 50% of the same top ten artists as the global rankings.
+
+<b>Question Three: How do Rankings of Top Songs in the Top Streaming Country Compare to the Global Rankings?</b>
+
+From 2017-2021, the US had at least 56% of the same top songs as the global charts in the top 100. 
 
 In 2017, the US charts had 60% of the same top 100 songs as the global charts.
 
@@ -103,25 +122,39 @@ The US charts had 56% of the same top 100 songs as the global charts from 2017 t
 
 We used a chi squared test to determine if the data matched our expectations of how influential the US song charts would be, considering the market makes up 21% of Spotify streams in our timeframe. Since the chi square value of 73.84 exceeds the critical value of 3.84, we conclude that the results are statistically significant and can reject the null hypothesis. 
 
-<b>Question Three: How does the Top Song of Each Year (2017-2021) Perform in the Top 10 Streaming Countries?</b>
+<b>Question Four: How does the Top Song of Each Year (2017-2021) Perform in the Top 10 Streaming Countries?</b>
 
-<b>Question Four: Which Artists Are the Most Popular Globally (2017-2021)?</b>
+In breaking down the regional contribution for each of these five songs, we are able to compare the rankings to the previously mentioned overall top ten countries list.
 
-The top ten most popular artists during this time frame:
+Ed Sheeran was not only the most streamed artist for 2017, he also charted the most streamed song for this year. As expected, the United States was the primary contributor for each of these songs. Although Sweden, home to Spotify headquarters, was not a top ten country in terms of overall streams, it ranked sixth for this song and charted in the top ten for two others.
 
-1. Post Malone
-2. Ed Sheeran
-3. Drake
-4. Bad Bunny
-5. Billie Eilish
-6. J Balvin
-7. Ariana Grande
-8. The Weeknd
-9. Juice World
-10. Dua Lipa
+![bar graph, Shape of You: Top Regions (2017)](graphs2/.png)
 
-Between the years of 2017 and 2021, the United States (the region with the highest amount of total streams) shared 50% of the same top ten artists as the global rankings.
+![venn diagram, Shape of You (2017)](graphs2/.png)
 
+God’s Plan, a song by the Canadian artist Drake, was the most streamed release for 2018. You may notice that despite ranking seventh in terms of overall streams, Italy will not be listed as a top contributor for any of these primarily English-language songs.
+
+![bar graph, God's Plan: Top Regions (2018)](graphs2/.png)
+
+![venn diagram, God's Plan (2018)](graphs2/.png)
+
+The top song for 2019 was Señorita, a duet by Sean Mendes and Camila Cabello. Even though Indonesia and the Philippines were not in the overall top ten, they were found to be a leading contributor to this song and the most popular song 2021.
+
+![bar graph, Señorita: Top Regions (2019)](graphs2/.png)
+
+![venn diagram, Señorita (2019)](graphs2/.png)
+
+Perhaps more noteworthy, the Netherlands was in the top ten for each of these songs despite not making it onto the overall list. Seventy percent of the overall top ten countries were also leading contributors to the most-streamed song from 2020, Blinding Lights by The Weeknd.
+
+![bar graph, Blinding Lights: Top Regions (2020)](graphs2/.png)
+
+![venn diagram, Blinding Lights (2020)](graphs2/.png)
+
+That total was sixty percent for the top song of 2021, drivers license by Olivia Rodrigo, and 66% when considering all five songs.
+
+![bar graph, drivers license: Top Regions (2021)](graphs2/.png)
+
+![venn diagram, drivers license (2021)](graphs2/.png)
 
 # Conclusion:
 
@@ -133,7 +166,7 @@ From 2017 - 2021, the U.S. had at least 56% of the same songs as the global char
 
 The top song of each year had the highest number of streams from the U.S. market. 
 
-We reject the null hypothesis, as our studies support the idea that the largest market will have the greatest influence on global trends.
+We reject the null hypothesis, as our studies support the idea that the largest market will have the greatest influence on Spotify global trends.
 
 # Study Limitations:
 
