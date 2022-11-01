@@ -101,7 +101,7 @@ The US charts had 56% of the same top 100 songs as the global charts from 2017 t
 
 ![venn diagram, total top songs comparing US to global](Project-1/graphs/top_songs_overall_venn.png)
 
-We used a chi squared test to determine if the data matched our expectations of how influential the US song charts would be, considering the market makes up 21% of Spotify streams in our timeframe. Since the chi square value of 73.84 exceeds the critical value of 3.84, we conclude that the results are statistically significant and can accept our null hypothesis. 
+We used a chi squared test to determine if the data matched our expectations of how influential the US song charts would be, considering the market makes up 21% of Spotify streams in our timeframe. Since the chi square value of 73.84 exceeds the critical value of 3.84, we conclude that the results are statistically significant and can reject the null hypothesis. 
 
 <b>Question Three: How does the Top Song of Each Year (2017-2021) Perform in the Top 10 Streaming Countries?</b>
 
@@ -133,7 +133,7 @@ From 2017 - 2021, the U.S. had at least 56% of the same songs as the global char
 
 The top song of each year had the highest number of streams from the U.S. market. 
 
-We fail to reject the null hypothesis as our studies support the idea that the largest market will have the greatest influence on global trends.
+We reject the null hypothesis, as our studies support the idea that the largest market will have the greatest influence on global trends.
 
 # Study Limitations:
 
