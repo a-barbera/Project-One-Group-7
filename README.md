@@ -128,31 +128,31 @@ In breaking down the regional contribution for each of these five songs, we are 
 
 Ed Sheeran was not only the most streamed artist for 2017, he also charted the most streamed song for this year. As expected, the United States was the primary contributor for each of these songs. Although Sweden, home to Spotify headquarters, was not a top ten country in terms of overall streams, it ranked sixth for this song and charted in the top ten for two others.
 
-![bar graph, Shape of You: Top Regions (2017)](graphs2/.png)
+![bar graph, Shape of You: Top Regions (2017)](graphs2/Shape_Top_Ten_Countries.png)
 
 ![venn diagram, Shape of You (2017)](graphs2/.png)
 
 God’s Plan, a song by the Canadian artist Drake, was the most streamed release for 2018. You may notice that despite ranking seventh in terms of overall streams, Italy will not be listed as a top contributor for any of these primarily English-language songs.
 
-![bar graph, God's Plan: Top Regions (2018)](graphs2/.png)
+![bar graph, God's Plan: Top Regions (2018)](graphs2/gods_plan_top ten_countries.png)
 
 ![venn diagram, God's Plan (2018)](graphs2/.png)
 
 The top song for 2019 was Señorita, a duet by Sean Mendes and Camila Cabello. Even though Indonesia and the Philippines were not in the overall top ten, they were found to be a leading contributor to this song and the most popular song 2021.
 
-![bar graph, Señorita: Top Regions (2019)](graphs2/.png)
+![bar graph, Señorita: Top Regions (2019)](graphs2/señorita_top_countries.png)
 
 ![venn diagram, Señorita (2019)](graphs2/.png)
 
 Perhaps more noteworthy, the Netherlands was in the top ten for each of these songs despite not making it onto the overall list. Seventy percent of the overall top ten countries were also leading contributors to the most-streamed song from 2020, Blinding Lights by The Weeknd.
 
-![bar graph, Blinding Lights: Top Regions (2020)](graphs2/.png)
+![bar graph, Blinding Lights: Top Regions (2020)](graphs2/blinding_lights_2020_top_countries.png)
 
 ![venn diagram, Blinding Lights (2020)](graphs2/.png)
 
 That total was sixty percent for the top song of 2021, drivers license by Olivia Rodrigo, and 66% when considering all five songs.
 
-![bar graph, drivers license: Top Regions (2021)](graphs2/.png)
+![bar graph, drivers license: Top Regions (2021)](graphs2/drivers_license_top_countries.png)
 
 ![venn diagram, drivers license (2021)](graphs2/.png)
 
