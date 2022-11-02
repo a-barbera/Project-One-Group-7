@@ -70,9 +70,22 @@ The top ten most popular artists during this time frame:
 9. Juice World
 10. Dua Lipa
 
-![Ariana Grande pie chart](https://github.com/VictorPang04/Spotify/blob/main/Ariana_Grande_Pie_Chart.png)
+<h3>Here, we can see what percentage US streams made of the total amount of streams for these globally most popular artists:</h3>
 
-Between the years of 2017 and 2021, the United States (the region with the highest amount of total streams) shared 50% of the same top ten artists as the global rankings.
+![Post Malone pie chart](https://github.com/VictorPang04/Spotify/blob/main/Post_Malone_Pie_Chart.png)
+![Ed Sheeran pie chart](https://github.com/VictorPang04/Spotify/blob/main/Ed_Sheeran_Pie_Chart.png)
+![Drake pie chart](https://github.com/VictorPang04/Spotify/blob/main/Drake_Pie_Chart.png)
+![Bad Bunny pie chart](https://github.com/VictorPang04/Spotify/blob/main/Bad_Bunny_Pie_Chart.png)
+![Billie Eilish pie chart](https://github.com/VictorPang04/Spotify/blob/main/Billie_Eilish_Pie_Chart.png)
+![J Balvin pie chart](https://github.com/VictorPang04/Spotify/blob/main/J_Balvin_Pie_Chart.png)
+![Ariana Grande pie chart](https://github.com/VictorPang04/Spotify/blob/main/Ariana_Grande_Pie_Chart.png)
+![The Weeknd pie chart](https://github.com/VictorPang04/Spotify/blob/main/The_Weeknd_Pie_Chart.png)
+![Juice World pie chart](https://github.com/VictorPang04/Spotify/blob/main/Juice_World_Pie_Chart.png)
+![Dua Lipa pie chart](https://github.com/VictorPang04/Spotify/blob/main/Dua_Lipa_Pie_Chart.png)
+
+<h3>Between the years of 2017 and 2021, the United States (the region with the highest amount of total streams) shared 50% of the same top ten artists as the global rankings.</h3>
+
+GLOBAL RANKINGS:
 
 ![Global Top 10 2017](https://github.com/VictorPang04/Spotify/blob/main/Global_Top10_2017.png)
 ![Global Top 10 2018](https://github.com/VictorPang04/Spotify/blob/main/Global_Top10_2018.png)
@@ -80,9 +93,17 @@ Between the years of 2017 and 2021, the United States (the region with the highe
 ![Global Top 10 2020](https://github.com/VictorPang04/Spotify/blob/main/Global_Top10_2020.png)
 ![Global Top 10 2021](https://github.com/VictorPang04/Spotify/blob/main/Global_Top10_2021.png)
 
+US RANKINGS:
+
+![US Top artist rankings 2017](https://github.com/VictorPang04/Spotify/blob/main/US_Top10_2017.png)
+![US Top artist rankings 2018](https://github.com/VictorPang04/Spotify/blob/main/US_Top10_2018.png)
+![US Top artist rankings 2019](https://github.com/VictorPang04/Spotify/blob/main/US_Top10_2019.png)
+![US Top artist rankings 2020](https://github.com/VictorPang04/Spotify/blob/main/US_Top10_2020.png)
+![US Top artist rankings 2021](https://github.com/VictorPang04/Spotify/blob/main/US_Top10_2021.png)
+
 <b>Question Three: How do Rankings of Top Songs in the Top Streaming Country Compare to the Global Rankings?</b>
 
-From 2017-2021, the US had at least 56% of the same top songs as the global charts in the top 100. 
+<h3>From 2017-2021, the US had at least 56% of the same top songs as the global charts in the top 100. </h3>
 
 In 2017, the US charts had 60% of the same top 100 songs as the global charts.
 
