@@ -50,10 +50,10 @@ Lastly, we developed a team presentation and a robust Google Slides folder of gr
 
 Our analysis shows that the United States has the highest amount of total streams and accounts for 21% of total global streams between the years of 2017 - 2021, significantly higher than any other individual region represented in our dataset.  
 
-![total streams per region](graphs2/Countries_By_Streaming.png)
-![global vs US top songs comparison](graphs2/Global_vs_US_top_songs_overall.png)
-![bar chart, top ten countries total streams](/graphs2/Top_Ten_Countries_by_Streaming.png)
-![pie chart, Us vs. International streaming totals](/graphs2/US_Streaming_Percentage.png)
+![total streams per region](/Project-One-Group-7/graphs_updated/Countries_By_Streaming.png)
+![global vs US top songs comparison](/Project-One-Group-7/graphs_updated/Global_vs_US_top_songs_overall.png)
+![bar chart, top ten countries total streams](/Project-One-Group-7/graphs_updated/Top_Ten_Countries_by_Streaming.png)
+![pie chart, Us vs. International streaming totals](/Project-One-Group-7/graphs_updated/US_Streaming_Percentage.png)
 
 <h2><b>Question Two: How do Rankings of Top Artists in the Top Streaming Country Compare to the Global Rankings?
 ? </b></h2>
