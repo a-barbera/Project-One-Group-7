@@ -50,10 +50,10 @@ Lastly, we developed a team presentation and a robust Google Slides folder of gr
 
 Our analysis shows that the United States has the highest amount of total streams and accounts for 21% of total global streams between the years of 2017 - 2021, significantly higher than any other individual region represented in our dataset.  
 
-![total streams per region](/Project-One-Group-7/graphs_updated/Countries_By_Streaming.png)
-![global vs US top songs comparison](/Project-One-Group-7/graphs_updated/Global_vs_US_top_songs_overall.png)
-![bar chart, top ten countries total streams](/Project-One-Group-7/graphs_updated/Top_Ten_Countries_by_Streaming.png)
-![pie chart, Us vs. International streaming totals](/Project-One-Group-7/graphs_updated/US_Streaming_Percentage.png)
+![total streams per region](graphs_final/Countries_By_Streaming.png)
+![global vs US top songs comparison](graphs_final/Global_vs_US_top_songs_overall.png)
+![bar chart, top ten countries total streams](graphs_final/Top_Ten_Countries_by_Streaming.png)
+![pie chart, Us vs. International streaming totals](graphs_final/US_Streaming_Percentage.png)
 
 <h2><b>Question Two: How do Rankings of Top Artists in the Top Streaming Country Compare to the Global Rankings?
 ? </b></h2>
@@ -108,47 +108,47 @@ US RANKINGS:
 
 In 2017, the US charts had 60% of the same top 100 songs as the global charts.
 
-![venn diagram, 2017 top songs comparing US to global](graphs2/_top_songs_2017_venn.png)
+![venn diagram, 2017 top songs comparing US to global](graphs_final/_top_songs_2017_venn.png)
 
 In 2017, the US charts had 50% of the same top 10 songs as the global charts.
 
-![double bar graph, 2017 top songs comparing US to global](graphs2/Global_vs_US_top_songs_2017.png)
+![double bar graph, 2017 top songs comparing US to global](graphs_final/Global_vs_US_top_songs_2017.png)
 
 In 2018, the US charts had 63% of the same top 100 songs as the global charts in 2018.
 
-![venn diagram, 2018 top songs comparing US to global](graphs2/_top_songs_2018_venn.png)
+![venn diagram, 2018 top songs comparing US to global](graphs_final/_top_songs_2018_venn.png)
 
 In 2018, the US charts had 70% of the same top 10 songs as the global charts.
 
-![double bar graph, 2018 top songs comparing US to global](graphs2/Global_vs_US_top_songs_2018.png)
+![double bar graph, 2018 top songs comparing US to global](graphs_final/Global_vs_US_top_songs_2018.png)
 
 In 2019, the US charts had 63% of the same top 100 songs as the global charts.
 
-![venn diagram, 2019 top songs comparing US to global](graphs2/top_songs_2019_venn.png)
+![venn diagram, 2019 top songs comparing US to global](graphs_final/top_songs_2019_venn.png)
 
 In 2019, the US charts had 40% of the same top 10 songs as the global charts.
 
-![double bar graph, 2019 top songs comparing US to global](graphs2/Global_vs_US_top_songs_2019.png)
+![double bar graph, 2019 top songs comparing US to global](graphs_final/Global_vs_US_top_songs_2019.png)
 
 In 2020, The US charts had 57% of the same top 100 songs as the global charts.
 
-![venn diagram, 2020 top songs comparing US to global](graphs2/top_songs_2020_venn.png)
+![venn diagram, 2020 top songs comparing US to global](graphs_final/top_songs_2020_venn.png)
 
 In 2020, the US charts had 40% of the same top 10 songs as the global charts.
 
-![double bar graph, 2020 top songs comparing US to global](graphs2/Global_vs_US_top_songs_2020.png)
+![double bar graph, 2020 top songs comparing US to global](graphs_final/Global_vs_US_top_songs_2020.png)
 
 In 2021, The US charts had 66% of the same top 100 songs as the global charts.
 
-![venn diagram, 2021 top songs comparing US to global](graphs2/top_songs_2021_venn.png)
+![venn diagram, 2021 top songs comparing US to global](graphs_final/top_songs_2021_venn.png)
 
 In 2021, the US charts had 70% of the same top 10 songs as the global charts.
 
-![double bar graph, 2021 top songs comparing US to global](graphs2/Global_vs_US_top_songs_2021.png)
+![double bar graph, 2021 top songs comparing US to global](graphs_final/Global_vs_US_top_songs_2021.png)
 
 The US charts had 56% of the same top 100 songs as the global charts from 2017 to 2021.
 
-![venn diagram, total top songs comparing US to global](graphs2/top_songs_overall_venn.png)
+![venn diagram, total top songs comparing US to global](graphs_final/top_songs_overall_venn.png)
 
 We used a chi squared test to determine if the data matched our expectations of how influential the US song charts would be, considering the market makes up 21% of Spotify streams in our timeframe. Since the chi square value of 73.84 exceeds the critical value of 3.84, we conclude that the results are statistically significant and can reject the null hypothesis. 
 
@@ -158,33 +158,33 @@ In breaking down the regional contribution for each of these five songs, we are 
 
 Ed Sheeran was not only the most streamed artist for 2017, he also charted the most streamed song for this year. As expected, the United States was the primary contributor for each of these songs. Although Sweden, home to Spotify headquarters, was not a top ten country in terms of overall streams, it ranked sixth for this song and charted in the top ten for two others.
 
-![bar graph, Shape of You: Top Regions (2017)](graphs2/Shape_Top_Ten_Countries.png)
+![bar graph, Shape of You: Top Regions (2017)](graphs_final/Shape_Top_Ten_Countries.png)
 
-![venn diagram, Shape of You (2017)](graphs2/.png)
+![venn diagram, Shape of You (2017)](graphs_final/shape_of_you_venn.png)
 
 God’s Plan, a song by the Canadian artist Drake, was the most streamed release for 2018. You may notice that despite ranking seventh in terms of overall streams, Italy will not be listed as a top contributor for any of these primarily English-language songs.
 
-![bar graph, God's Plan: Top Regions (2018)](graphs2/gods_plan_top ten_countries.png)
+![bar graph, God's Plan: Top Regions (2018)](graphs_final/gods_plan_top ten_countries.png)
 
-![venn diagram, God's Plan (2018)](graphs2/.png)
+![venn diagram, God's Plan (2018)](graphs_final/gods_plan_venn.png)
 
 The top song for 2019 was Señorita, a duet by Sean Mendes and Camila Cabello. Even though Indonesia and the Philippines were not in the overall top ten, they were found to be a leading contributor to this song and the most popular song 2021.
 
 ![bar graph, Señorita: Top Regions (2019)](graphs2/señorita_top_countries.png)
 
-![venn diagram, Señorita (2019)](graphs2/.png)
+![venn diagram, Señorita (2019)](graphs_final/señorita_venn.png)
 
 Perhaps more noteworthy, the Netherlands was in the top ten for each of these songs despite not making it onto the overall list. Seventy percent of the overall top ten countries were also leading contributors to the most-streamed song from 2020, Blinding Lights by The Weeknd.
 
-![bar graph, Blinding Lights: Top Regions (2020)](graphs2/blinding_lights_2020_top_countries.png)
+![bar graph, Blinding Lights: Top Regions (2020)](graphs_final/blinding_lights_2020_top_countries.png)
 
-![venn diagram, Blinding Lights (2020)](graphs2/.png)
+![venn diagram, Blinding Lights (2020)](graphs_final/bl_venn.png)
 
 That total was sixty percent for the top song of 2021, drivers license by Olivia Rodrigo, and 66% when considering all five songs.
 
-![bar graph, drivers license: Top Regions (2021)](graphs2/drivers_license_top_countries.png)
+![bar graph, drivers license: Top Regions (2021)](graphs_finaldrivers_license_top_countries.png)
 
-![venn diagram, drivers license (2021)](graphs2/.png)
+![venn diagram, drivers license (2021)](graphs_final/drivers_license_venn.png)
 
 # Conclusion:
 
