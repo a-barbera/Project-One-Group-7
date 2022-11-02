@@ -29,6 +29,7 @@ Our project code can be found here: https://github.com/a-barbera/Project-One-Gro
 
 # Objective:
 Analyze music data trends and find out which markets hold the most influence over global music trends and determine if song and artist popularity in the largest market is reflective of global preferences as well.  
+
 # Hypothesis:
 <b>Hypothesis:</b> The top streaming market will have a substantial influence over global charts.
 
@@ -45,7 +46,7 @@ We then used Pandas, Matplotlib, and statistical tests such as a chi-squared tes
 Lastly, we developed a team presentation and a robust Google Slides folder of graphs and key elements to support our findings and facilitate audience engagement. 
 
 # Research Questions
- <b>Question One:  Which Countries were the Most Influential on the Global Spotify Market from 2017-2021?</b>
+ <h2><b>Question One:  Which Countries were the Most Influential on the Global Spotify Market from 2017-2021?</b></h2>
 
 Our analysis shows that the United States has the highest amount of total streams and accounts for 21% of total global streams between the years of 2017 - 2021, significantly higher than any other individual region represented in our dataset.  
 
@@ -54,8 +55,8 @@ Our analysis shows that the United States has the highest amount of total stream
 ![bar chart, top ten countries total streams](/graphs2/Top_Ten_Countries_by_Streaming.png)
 ![pie chart, Us vs. International streaming totals](/graphs2/US_Streaming_Percentage.png)
 
-<b>Question Two: How do Rankings of Top Artists in the Top Streaming Country Compare to the Global Rankings?
-? </b>
+<h2><b>Question Two: How do Rankings of Top Artists in the Top Streaming Country Compare to the Global Rankings?
+? </b></h2>
 
 The top ten most popular artists during this time frame:
 
@@ -75,7 +76,7 @@ The top ten most popular artists during this time frame:
 ![Post Malone pie chart](https://github.com/VictorPang04/Spotify/blob/main/Post_Malone_Pie_Chart.png)
 ![Ed Sheeran pie chart](https://github.com/VictorPang04/Spotify/blob/main/Ed_Sheeran_Pie_Chart.png)
 ![Drake pie chart](https://github.com/VictorPang04/Spotify/blob/main/Drake_Pie_Chart.png)
-![Bad Bunny pie chart](https://github.com/VictorPang04/Spotify/blob/main/Bad_Bunny_Pie_Chart.png)
+![Bad Bunny pie chart](https://github.com/VictorPang04/Spotify/blob/main/Bad_Bunny_Pie_chart.png)
 ![Billie Eilish pie chart](https://github.com/VictorPang04/Spotify/blob/main/Billie_Eilish_Pie_Chart.png)
 ![J Balvin pie chart](https://github.com/VictorPang04/Spotify/blob/main/J_Balvin_Pie_Chart.png)
 ![Ariana Grande pie chart](https://github.com/VictorPang04/Spotify/blob/main/Ariana_Grande_Pie_Chart.png)
@@ -101,7 +102,7 @@ US RANKINGS:
 ![US Top artist rankings 2020](https://github.com/VictorPang04/Spotify/blob/main/US_Top10_2020.png)
 ![US Top artist rankings 2021](https://github.com/VictorPang04/Spotify/blob/main/US_Top10_2021.png)
 
-<b>Question Three: How do Rankings of Top Songs in the Top Streaming Country Compare to the Global Rankings?</b>
+<h2><b>Question Three: How do Rankings of Top Songs in the Top Streaming Country Compare to the Global Rankings?</b></h2>
 
 <h3>From 2017-2021, the US had at least 56% of the same top songs as the global charts in the top 100. </h3>
 
@@ -151,7 +152,7 @@ The US charts had 56% of the same top 100 songs as the global charts from 2017 t
 
 We used a chi squared test to determine if the data matched our expectations of how influential the US song charts would be, considering the market makes up 21% of Spotify streams in our timeframe. Since the chi square value of 73.84 exceeds the critical value of 3.84, we conclude that the results are statistically significant and can reject the null hypothesis. 
 
-<b>Question Four: How does the Top Song of Each Year (2017-2021) Perform in the Top 10 Streaming Countries?</b>
+<h2><b>Question Four: How does the Top Song of Each Year (2017-2021) Perform in the Top 10 Streaming Countries?</b></h2>
 
 In breaking down the regional contribution for each of these five songs, we are able to compare the rankings to the previously mentioned overall top ten countries list.
 
